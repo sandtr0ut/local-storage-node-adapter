@@ -22,9 +22,9 @@ An ultra-simple adapter that provides browser-like, local-storage capability for
 
 ```
 node index.js
-```
 
-### ...checks local storage for user_id
+    ...checks local storage for user_id
+```
 
 **if (no user is found):**
 
